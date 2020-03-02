@@ -29,7 +29,7 @@ end
 
 def aoh_lookup(aoh, row, key)
 
-:name = aoh_lookup([3],[0],[0])
+name = aoh_lookup([3],[0],[0])
 
 end
 
