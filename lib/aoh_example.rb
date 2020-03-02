@@ -29,7 +29,7 @@ end
 
 def aoh_lookup(aoh, row, key)
 
-assembled_aoh(2, :name)
+aoh_lookup(2, :name)
 #name = aoh_lookup([3],[0],[0])
 
 end
