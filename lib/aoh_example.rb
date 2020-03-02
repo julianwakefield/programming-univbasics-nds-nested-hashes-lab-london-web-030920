@@ -29,8 +29,8 @@ end
 
 def aoh_lookup(aoh, row, key)
 
-aoh_lookup(2, :name)
-#name = aoh_lookup([3],[0],[0])
+aoh_lookup(2,:name)
+
 
 end
 
