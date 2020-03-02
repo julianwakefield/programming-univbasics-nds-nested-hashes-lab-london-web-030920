@@ -29,7 +29,7 @@ end
 
 def aoh_lookup(aoh, row, key)
 
-name = aoh[0][:name]
+name = aoh[2][:name]
 
 return name
 
