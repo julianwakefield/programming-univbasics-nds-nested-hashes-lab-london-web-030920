@@ -29,8 +29,9 @@ end
 
 def aoh_lookup(aoh, row, key)
 
-aoh_lookup(2,0)
+name = aoh_lookup(2,0)
 
+return name
 
 end
 
